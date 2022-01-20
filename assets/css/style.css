@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Open+Sans&family=Roboto&family=Yusei+Magic&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(89, 81, 161);
+    text-align: center;
+}
+
+form{
+    background: cornsilk;
+    width: 40%;
+    height: 50%;
+    margin: 17% auto;
+}
